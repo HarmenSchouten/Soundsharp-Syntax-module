@@ -1,0 +1,6 @@
+X:\SCHOOL\Hoornbeeck\JAAR 2\SEMESTER 2\BLOK 3\PRG\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+X:\SCHOOL\Hoornbeeck\JAAR 2\SEMESTER 2\BLOK 3\PRG\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+X:\SCHOOL\Hoornbeeck\JAAR 2\SEMESTER 2\BLOK 3\PRG\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+X:\SCHOOL\Hoornbeeck\JAAR 2\SEMESTER 2\BLOK 3\PRG\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+X:\SCHOOL\Hoornbeeck\JAAR 2\SEMESTER 2\BLOK 3\PRG\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+X:\SCHOOL\Hoornbeeck\JAAR 2\SEMESTER 2\BLOK 3\PRG\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
